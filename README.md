@@ -1,8 +1,10 @@
+![maintained-shield]
+![Stargazers][stars-shield]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 # NerdStore-Enterprise
 
 ## Plataforma de E-commerce – ASP.NET Core & Arquitetura Corporativa
-
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <details open="open">
   <summary><strong>Conteúdo</strong></summary>
@@ -114,13 +116,25 @@ O **NerdStore-Enterprise** é um ambiente corporativo de e-commerce concebido pa
 - Git
 
 ### Instalação
+**Clone o repositório:**
 ```bash
 git clone https://github.com/medidrones/NerdStore_Enterprise
-cd .\NerdStore_Enterprise\docker
-docker-compose -f nerdstore_producao.yml up --scale web-mvc=4
-https://localhost/vitrine
 ```
 
+**Navegue até a pasta do projeto:**
+```bash
+cd .\NerdStore_Enterprise\docker
+```
+
+**Dentro da pasta "docker" do projeto, executar "docker-compose" para publicação:
+```bash
+docker-compose -f nerdstore_producao.yml up --scale web-mvc=4
+```
+
+**Após executar "docker-compose", acessar o link do E-commerce:
+```bash
+https://localhost/vitrine
+```
 ---
 
 ## Evidências Operacionais
