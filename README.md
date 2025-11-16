@@ -114,7 +114,7 @@ O **NerdStore-Enterprise** é um ambiente corporativo de e-commerce concebido pa
 - SQL Server (local ou container)
 - Git
 
-### Instalação (resumo)
+### Instalação
 ```bash
 git clone https://github.com/medidrones/NerdStore_Enterprise
 cd .\NerdStore_Enterprise\docker
@@ -126,7 +126,7 @@ https://localhost/vitrine
 
 ## Evidências Operacionais
 
-### E-commerce NerdStore Enterprise
+### Ecommerce NerdStore Enterprise
 ![Tech skills](Utils/Evidencias/evidencia8.jpg)
 
 ![Tech skills](Utils/Evidencias/evidencia9.jpg)
@@ -137,25 +137,25 @@ https://localhost/vitrine
 
 ![Tech skills](Utils/Evidencias/evidencia12.jpg)
 
-### RabbitMQ – Dashboard Geral
+### RabbitMQ Dashboard Geral
 ![Tech skills](Utils/Evidencias/evidencia1.jpg)
 
-### RabbitMQ – Conexões dos Microsserviços
+### RabbitMQ Conexões dos Microsserviços
 ![Tech skills](Utils/Evidencias/evidencia2.jpg)
 
-### RabbitMQ – Canais Ativos
+### RabbitMQ Canais Ativos
 ![Tech skills](Utils/Evidencias/evidencia3.jpg)
 
-### RabbitMQ – Exchanges Configuradas
+### RabbitMQ Exchanges Configuradas
 ![Tech skills](Utils/Evidencias/evidencia4.jpg)
 
-### RabbitMQ – Filas Ativas
+### RabbitMQ Filas Ativas
 ![Tech skills](Utils/Evidencias/evidencia5.jpg)
 
-### Banco de Dados – ASP.NET Users
+### Banco de Dados ASP.NET Users
 ![Tech skills](Utils/Evidencias/evidencia6.jpg)
 
-### Banco de Dados – Clientes
+### Banco de Dados Clientes
 ![Tech skills](Utils/Evidencias/evidencia7.jpg)
 
 ---
