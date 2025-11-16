@@ -1,10 +1,20 @@
-![maintained-shield]
-![Stargazers][stars-shield]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![GitHub][github-shield]][github-url]
+[![Netcore][netcore-shield]][netcore-url]
+[![Visual Studio][visualstudio-shield]][visualstudio-url]
+[![Swagger][swagger-shield]][swagger-url]
+[![NGINX][nginx-shield]][nginx-url]
+[![gRPC][grpc-shield]][grpc-url]
+[![SQL Server][sqlserver-shield]][sqlserver-url]
+[![Docker][docker-shield]][docker-url]
+[![RabbitMQ][rabbitmq-shield]][rabbitmq-url]
+[![Redis][redis-shield]][redis-url]
+
 
 # NerdStore-Enterprise
 
 ## Plataforma de E-commerce – ASP.NET Core & Arquitetura Corporativa
+
 
 <details open="open">
   <summary><strong>Conteúdo</strong></summary>
@@ -126,12 +136,12 @@ git clone https://github.com/medidrones/NerdStore_Enterprise
 cd .\NerdStore_Enterprise\docker
 ```
 
-**Dentro da pasta "docker" do projeto, executar "docker-compose" para publicação:
+**Dentro da pasta "docker" do projeto, executar "docker-compose" para publicação:**
 ```bash
 docker-compose -f nerdstore_producao.yml up --scale web-mvc=4
 ```
 
-**Após executar "docker-compose", acessar o link do E-commerce:
+**Após executar "docker-compose", acessar o link do E-commerce:**
 ```bash
 https://localhost/vitrine
 ```
@@ -220,4 +230,30 @@ As imagens e diagramas podem ser disponibilizados em alta resolução (SVG ou PN
 
 Projeto distribuído sob a licença **MIT**. Consulte o arquivo LICENSE para detalhes.
 
+
+<!-- Shields about the project -->
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[github-shield]: https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white
+[netcore-shield]: https://img.shields.io/badge/.NET_%20_Core_6.0-5C2D91?style=for-the-badge&logo=.net&logoColor=white
+[visualstudio-shield]: https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
+[swagger-shield]: https://img.shields.io/badge/Swagger-205E3B?style=for-the-badge&logo=swagger&logoColor=white
+[nginx-shield]: https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white
+[grpc-shield]: https://img.shields.io/badge/gRPC-6E1F7C?style=for-the-badge&logo=grpc&logoColor=white
+[sqlserver-shield]: https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white
+[docker-shield]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
+[rabbitmq-shield]: https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white
+[redis-shield]: https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white
+
+<!-- Urls -->
+[linkedin-url]: https://www.linkedin.com/in/welissonarley/
+[github-url]: https://github.com/medidrones
+[netcore-url]: https://dotnet.microsoft.com/pt-br/download/dotnet/3.1
+[visualstudio-url]: https://visualstudio.microsoft.com/pt-br/
+[swagger-url]: https://swagger.io/
+[nginx-url]: https://nginx.org/
+[grpc-url]: https://grpc.io/
+[sqlserver-url]: https://learn.microsoft.com/sql/
+[docker-url]: https://www.docker.com/
+[rabbitmq-url]: https://www.rabbitmq.com/
+[redis-url]: https://redis.io/
 
