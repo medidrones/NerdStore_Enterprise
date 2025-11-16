@@ -9,6 +9,7 @@
 [![Docker][docker-shield]][docker-url]
 [![RabbitMQ][rabbitmq-shield]][rabbitmq-url]
 [![Redis][redis-shield]][redis-url]
+[![Portainer][portainer-shield]][portainer-url]
 
 
 # NerdStore-Enterprise
@@ -243,9 +244,10 @@ Projeto distribuído sob a licença **MIT**. Consulte o arquivo LICENSE para det
 [docker-shield]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
 [rabbitmq-shield]: https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white
 [redis-shield]: https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white
+[portainer-shield]: https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white
 
 <!-- Urls -->
-[linkedin-url]: https://www.linkedin.com/in/welissonarley/
+[linkedin-url]: https://www.linkedin.com/in/jorge-medina-176672163/
 [github-url]: https://github.com/medidrones
 [netcore-url]: https://dotnet.microsoft.com/pt-br/download/dotnet/3.1
 [visualstudio-url]: https://visualstudio.microsoft.com/pt-br/
@@ -256,4 +258,5 @@ Projeto distribuído sob a licença **MIT**. Consulte o arquivo LICENSE para det
 [docker-url]: https://www.docker.com/
 [rabbitmq-url]: https://www.rabbitmq.com/
 [redis-url]: https://redis.io/
+[portainer-url]: https://www.portainer.io/
 
